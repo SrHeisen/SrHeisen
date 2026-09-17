@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/srheisen">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I%27m+SrHeisen+from+Colombia%2C+Bogota+%F0%9F%97%BB;Developer+Of+Software+Designer+UX/UI+In+Process..✌️;Cybersecurity+Research%2C+AWS+and+Azure%2C+and+Full+Stack+Dev..👨‍💻;Interested+in+Data+Structures%2C+Algorithms%2C+Coding%2C+and+Low-Level+Computing%20🚀;Welcome+to+My+Github%20☕;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=red&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I%27m+SrHeisen+from+Colombia%2C+Bogota+%F0%9F%97%BB;Developer+of+Software+Designer,+UX/UI+In+Process..✌️;Cybersecurity+Research%2C+AWS+and+Azure%2C+and+Full+Stack+Dev..👨‍💻;Interested+in+Data+Structures%2C+Algorithms%2C+Coding%2C+and+Low-Level+Computing%20🚀;Welcome+to+My+Github%20☕;">
   </a>
 </p>
 
