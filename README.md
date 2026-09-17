@@ -8,11 +8,13 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=srheisen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=srheisen&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srheisen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+<div align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=SrHeisen&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20Reyna" height="250"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrHeisen&theme=material-palenight" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrHeisen&layout=compact&theme=tokyonight&hide_border=false" height="250" />
+
+</div>
 
 <!--
 **SrHeisen/SrHeisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
